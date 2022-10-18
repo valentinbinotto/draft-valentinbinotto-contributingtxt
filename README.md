@@ -10,5 +10,5 @@
    parties participate in a project?  This document presents one way to
    communicate such information in a consistent manner.
 
-[Datatracker Page](https://datatracker.ietf.org/doc/draft-valentinbinotto-contributingtxt/)
+[Datatracker Page](https://datatracker.ietf.org/doc/draft-valentinbinotto-contributingtxt/)<br>
 [Contact Author](mailto:valentinbinotto-id.ext@v434project.com)
