@@ -11,4 +11,5 @@
    communicate such information in a consistent manner.
 
 [Datatracker Page](https://datatracker.ietf.org/doc/draft-valentinbinotto-contributingtxt/)<br>
+[Datatracker History](https://datatracker.ietf.org/doc/draft-valentinbinotto-contributingtxt/history/)<br>
 [Contact Author](mailto:valentinbinotto-id.ext@v434project.com)
